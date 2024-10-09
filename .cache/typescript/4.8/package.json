@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.689"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/body-parser": "^1.19.4",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/jws": "^3.2.7",
+    "@types/lodash": "^4.14.200",
+    "@types/merge-descriptors": "^1.0.2",
+    "@types/object-assign": "^4.0.32",
+    "@types/pg": "^8.11.10",
+    "@types/pg-pool": "^2.0.5",
+    "@types/serve-static": "^1.15.4",
+    "@types/vary": "^1.1.2"
+  }
+}
